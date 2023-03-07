@@ -1,6 +1,5 @@
-# Movie-Website---CubosFlix
+# Movie-Website CubosFlix
 
-# Utilização
 ## Página inicial
 Na página inicial, é possível visualizar o carrossel contendo cards de filmes. Para ter acesso à sinopse de um filme, basta clicar em algum card.
 
