@@ -13,10 +13,10 @@ Ao clicar em um card, você será direcionado para a página da sinopse do filme
 ## Pesquisar filmes
 Para fazer uma pesquisa, clique no input "Pesquisar". Digite o título do filme que deseja encontrar e aperte Enter. Os resultados serão exibidos no carrossel. Se o input estiver vazio, quando apertar enter, o resultado mostrará o carrossel de filmes inicial.
 
- <img src="image/ image 3.png" alt="Screenshot">
+ <img src="image/image 3.png" alt="Screenshot">
  
 ## Filme do Dia
 
 O site possui uma seção chamada "Filme do Dia", onde um filme é destacado como destaque, diariamente. Essa seção pode ser encontrada na página inicial, abaixo do carrossel de filmes. Ao clicar na imagem do filme do dia, o usuário será direcionado para o trailer do filme.
 
-<img src="image/ image 4.png" alt="Screenshot">
+<img src="image/image 4.png" alt="Screenshot">
